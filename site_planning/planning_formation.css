@@ -1,0 +1,35 @@
+h1
+{
+    color:#C00C0C; /* Couleur titre h1 */
+    text-decoration: underline;
+    font-size: 70px;
+    text-shadow: 10px 10px 10px #0C0B0B;
+    text-align: center;
+}
+h2
+{
+    font-size: 45px;
+    color:#C00C0C;
+    font-style: italic;
+    text-shadow: 7px 7px 7px #0C0B0B;
+}
+strong
+{
+    font-weight: bold;
+    color: #E10505;
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px #0C0B0B;
+}
+body
+{
+    background-image: url("temps.jpg");
+}
+p
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+span
+{
+    color: #FBF8F8;
+}
